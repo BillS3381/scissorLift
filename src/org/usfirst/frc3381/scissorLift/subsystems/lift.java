@@ -9,7 +9,12 @@
 // it from being updated in the future.
 
 
+
 package org.usfirst.frc3381.scissorLift.subsystems;
+
+/** NOTICE! The Scissor Lift project as a whole has been back-burnered
+as of 29 Jan 2018. TL;DR it bowed out under force to the point of
+being an IED. This will probably be used for ex code. */
 
 import org.usfirst.frc3381.scissorLift.Robot;
 import org.usfirst.frc3381.scissorLift.RobotMap;
